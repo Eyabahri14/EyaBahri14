@@ -3,7 +3,7 @@
 
  <h1 align="center">
  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="50px">
-   <strong> Hi there,welcome to my profile.</strong> 
+   <strong>Welcome to my profile.</strong> 
 </h1>
 
 
