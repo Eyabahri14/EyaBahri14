@@ -5,7 +5,7 @@
 <h4>🌟 Creates responsive and intuitive web apps with modern tech </h4>
 <h4>👯 Open to innovative web projects </h4>
 <h4>👩‍💻Looking for an internship </h4>
-<h4>📫 How to reach me **eya.bahri@esprit.tn**
+<h4>📫 How to reach me <a href="mailto:eya.bahri@esprit.tn">eya.bahri@esprit.tn</a> </h4>
 <h4> ⚡ Fun fact: Enjoys reading, playing piano, and exploring creativity. </h4>
 
 
