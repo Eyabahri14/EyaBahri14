@@ -1,6 +1,6 @@
 <h2> Hi, I'm Eya ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-👋 Web developer with a computer engineering degree<br>🌟 Creates responsive and intuitive web apps with modern tech<br>👯 Open to innovative web projects<br>🤔 Learning advanced web dev concepts<br>💬 Ask about web dev tools and responsive layout design<br>⚡ Fun fact: Enjoys reading, playing piano, and exploring creativity.
+👋 Web developer with a computer engineering degree<br>🌟 Creates responsive and intuitive web apps with modern tech<br>👯 Open to innovative web projects<br>🤔 Learning advanced web dev concepts<br>⚡ Fun fact: Enjoys reading, playing piano, and exploring creativity.
 
 
 ## 🌐 Socials:
