@@ -1,5 +1,5 @@
 <img src="https://scontent.ftun10-1.fna.fbcdn.net/v/t1.15752-9/337123362_189258400537608_4886465102472015005_n.png?_nc_cat=101&ccb=1-7&_nc_sid=ae9488&_nc_ohc=E-kb2RBtXdQAX9FZGMU&_nc_ht=scontent.ftun10-1.fna&oh=03_AdSwoZAqBpihdziUkqWqwT8cjRQW1vTiwP4lqd8HGUKR9A&oe=6456A4F1" width="4000"></h2>
-                   <div style="display:flex,align-items:center,justify-content:center,text-align:center">Welcome to my <a href="https://github.com/Eyabahri14">GitHub</a></div>
+                   <div style="text-align:center">         Welcome to my <a href="https://github.com/Eyabahri14">GitHub</a></div>
 
 👋I am currently pursuing a degree in Software Engineering at <a href="https://esprit.tn/">ESPRIT (Ecole Sup Privée d'Ingénierie et de Technologies)</a> <br>🌟 Creates responsive and intuitive web apps with modern tech<br>👯 Open to innovative web projects<br>🤔 Learning advanced web dev concepts<br>⚡ Fun fact: Enjoys reading, playing piano, and exploring creativity.
 
