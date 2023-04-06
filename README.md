@@ -1,10 +1,9 @@
-<img src="https://scontent.ftun10-1.fna.fbcdn.net/v/t1.15752-9/337123362_189258400537608_4886465102472015005_n.png?_nc_cat=101&ccb=1-7&_nc_sid=ae9488&_nc_ohc=E-kb2RBtXdQAX9FZGMU&_nc_ht=scontent.ftun10-1.fna&oh=03_AdSwoZAqBpihdziUkqWqwT8cjRQW1vTiwP4lqd8HGUKR9A&oe=6456A4F1" width="4000"></h2>
+<img src="https://scontent.ftun10-1.fna.fbcdn.net/v/t1.15752-9/337123362_189258400537608_4886465102472015005_n.png?_nc_cat=101&ccb=1-7&_nc_sid=ae9488&_nc_ohc=E-kb2RBtXdQAX9FZGMU&_nc_ht=scontent.ftun10-1.fna&oh=03_AdSwoZAqBpihdziUkqWqwT8cjRQW1vTiwP4lqd8HGUKR9A&oe=6456A4F1" width="5000"></h2>
                
- <h1 align="center">
+
    <strong>Welcome to my profile <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="50px">
  </strong> 
 
-</h1>
 
 
 <h4>👋I am currently pursuing a degree in Software Engineering at <a href="https://esprit.tn/">ESPRIT (Ecole Sup Privée d'Ingénierie et de Technologies)</a></h4>  <h4>🌟 Creates responsive and intuitive web apps with modern tech </h4><h4>👯 Open to innovative web projects </h4><h4>🤔 Learning advanced web dev concepts </h4><h4> ⚡ Fun fact: Enjoys reading, playing piano, and exploring creativity. </h4>
