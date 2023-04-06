@@ -1,4 +1,4 @@
-<h2> Hi, I'm Eya ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Eya ! <img src="C:\Users\eyaba\Downloads\Black Neon Pink IT or Software Seamless Gradients LinkedIn Banner.png" width="50"></h2>
 
 👋I am currently pursuing a degree in Software Engineering at <a href="https://esprit.tn/">ESPRIT (Ecole Sup Privée d'Ingénierie et de Technologies)</a> <br>🌟 Creates responsive and intuitive web apps with modern tech<br>👯 Open to innovative web projects<br>🤔 Learning advanced web dev concepts<br>⚡ Fun fact: Enjoys reading, playing piano, and exploring creativity.
 
