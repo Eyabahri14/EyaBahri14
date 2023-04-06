@@ -2,7 +2,6 @@
 
 👋 Web developer with a computer engineering degree<br>🌟 Creates responsive and intuitive web apps with modern tech<br>👯 Open to innovative web projects<br>🤔 Learning advanced web dev concepts<br>💬 Ask about web dev tools and responsive layout design<br>⚡ Fun fact: Enjoys reading, playing piano, and exploring creativity.
 
-<img src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47andg23oth6c0ooaei6j3onf2l6pvi87c60gs71aw&rid=giphy.gif&ct=g"  width="100">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/eya-bahri-521293243/) 
