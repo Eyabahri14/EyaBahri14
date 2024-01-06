@@ -1,4 +1,4 @@
-# Hi, I'm Eya Bahri 👋
+# Hi, I'm Eya Bahri 
 
 ## About Me
 - 🎓 Undergraduate student at **ESEO**.
